@@ -1,0 +1,7 @@
+SELECT *FROM users WHERE email LIKE '%gmial.com'
+
+.mysqli_real_escape_string($link,$name).
+
+arrary_key_exists()
+
+mysqli_num_rows($result) > 0 
